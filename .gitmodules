@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/ArtMoiWP"]
+	path = wp-content/plugins/ArtMoiWP
+	url = git@github.com:kerkness/ArtMoiWP.git
